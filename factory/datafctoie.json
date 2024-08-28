@@ -1,0 +1,9 @@
+{
+	"name": "datafctoie",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "974961ee-8290-4b1e-98ba-c7f0821ec79e",
+		"tenantId": "7c6bc278-888d-4447-a740-ea59d8974ace"
+	}
+}
